@@ -40,7 +40,7 @@ python -m pytest -v
 - Parametrized test cases
 
 ## Test Evidence
-*Result:* 10 tests passed.
+*Result:* 27 tests passed.
 
 All tests run locally without accessing a live external service.
 
