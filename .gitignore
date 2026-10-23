@@ -2,3 +2,6 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+
+Day1_Backup/
+Day2_Backup/
